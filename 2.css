@@ -1,0 +1,47 @@
+/*header*/
+header {
+    background-color:#9b2731;
+}
+header .header {
+    overflow:hidden;
+    position:relative;
+    width:960px;
+    height:42px;
+    margin:0 auto;
+}
+header .search {
+    float:right;
+    margin-top:10px;
+    width:300px;
+}
+header .search input[type=text] {
+    background-color:#443e30;
+    border:1px solid #2F2C29;
+    color:#FFF;
+    font-size:10px;
+    height:20px;
+    margin-right:5px;
+    width:220px;
+    padding:1px 0 0 3px;
+}
+header .search input[type=submit] {
+   
+    height:21px;
+    width:60px;
+    font-size:0.9em;
+    border-width:0;
+}
+header .social_icons {
+    float:right;
+    margin-right:5px;
+    margin-top:5px;
+}
+.logo {
+    position:relative;
+    width:960px;
+    height:225px;
+    margin:0 auto;
+}
+.logo img {
+    margin:20px 10px;
+}
